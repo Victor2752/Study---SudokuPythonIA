@@ -1,2 +1,1 @@
-# SudokuPythonIA
- 
+test of 2 AI models made in python 3 for the ADS course in dec. 2022
