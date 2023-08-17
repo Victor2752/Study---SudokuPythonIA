@@ -1,1 +1,1 @@
-test of 2 AI models made in python 3 for the ADS course in dec. 2022
+Teste de 2 modelos de IA feitos em python para um projeto da faculdade.
